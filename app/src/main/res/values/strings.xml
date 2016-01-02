@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="address">Vivek Vihar, Phase -2, Jhilmil Colony, Delhi - 95</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_us">Shaheed Sukhdev College of Business Studies(SSCBS) is a premier institution of the University of Delhi, Imparting path-breaking education in the fields of Management and Information Technology. It was established in  August 1987 by the Delhi Administration on the initiation of UGC and the Ministry of Human Resources, CBS (as it is popularly referred to), has, in a short span of 25 years, established itself as the leading  undergraduate management school.</string>
+
+</resources>

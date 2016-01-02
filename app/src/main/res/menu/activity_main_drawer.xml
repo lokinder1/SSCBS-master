@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/glyphicons_21_home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/glyphicons_4_user"
+            android:title="Student Login" />
+
+        <item
+            android:id="@+id/nav_notices"
+            android:icon="@drawable/glyphicons_609_newspaper"
+            android:title="Notices" />
+
+        <item
+            android:id="@+id/nav_time_table"
+            android:icon="@drawable/glyphicons_55_clock"
+            android:title="Time Table" />
+
+        <item
+            android:id="@+id/nav_cloud"
+            android:icon="@drawable/glyphicons_413_cloud_plus"
+            android:title="Sscbs Cloud" />
+
+        <item
+            android:id="@+id/nav_library"
+            android:icon="@drawable/glyphicons_88_log_book"
+            android:title="Library Catalog" />
+
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/glyphicons_267_flag"
+            android:title="About Us" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/about_us"
+                android:icon="@drawable/glyphicons_267_flag"
+                android:title="About Us" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
